@@ -1,0 +1,23 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #333;
+	color: #eee;
+}
+div{
+	margin: 10% 15%;
+	text-align: center;
+}
+button{
+	margin: 15px;
+	padding: 10px;
+	border: 1px;
+	border-radius: 15px;
+	font-size: 1.4rem;
+}
+button:hover{
+	background: #55a;
+	transition: 0.75s;
+}
